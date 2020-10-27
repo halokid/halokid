@@ -1,10 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=halokid&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hello 👋
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halokid" alt="halokid" /> </p> 
 
-🇨🇳 China GuangZhou  
 🕹Backend,  Architecture,  Sre
 
 http://www.pangulab.com
