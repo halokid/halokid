@@ -3,7 +3,7 @@
 ### Hello 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halokid" alt="halokid" /> </p> 
 
-🕹Backend,  Architecture,  Sre, FullStack, Security
+🕹Backend,  Architecture,  Sre(Devops), Security, FullStack
 
 http://www.pangulab.com
 
