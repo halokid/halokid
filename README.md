@@ -11,23 +11,22 @@ http://www.pangulab.com
 
 <p align="left">
 <img src="https://img.shields.io/badge/-go-000000?style=flat&logo=go" alt="golang" />
-<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="scala" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="scala" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/elasityio/elasityio-icon.svg" alt="scala" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://img.shields.io/badge/-php-000000?style=flat&logo=php" alt="php" />
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" /> 
+<img src="https://img.shields.io/badge/-shell-000000?style=flat&logo=shell"/> 
+<img src="https://img.shields.io/badge/-java-000000?style=flat&logo=java"/> 
+<img src="https://img.shields.io/badge/-docker-000000?style=flat&logo=docker"/>
+<img src="https://img.shields.io/badge/-rust-000000?style=flat&logo=rust"/>
+<img src="https://img.shields.io/badge/-kubernetes-000000?style=flat&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/-flask-000000?style=flat&logo=flask"/>
+<img src="https://img.shields.io/badge/-linux-000000?style=flat&logo=linux"/>
+<img src="https://img.shields.io/badge/-mysql-000000?style=flat&logo=mysql"/>
+<img src="https://img.shields.io/badge/-redis-000000?style=flat&logo=redis"/>
+<img src="https://img.shields.io/badge/-jenkins-000000?style=flat&logo=jenkins"/>
+<img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git"/>
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"/>
+<img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" />
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React" />
 </p>
 
 
