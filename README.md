@@ -10,7 +10,7 @@ http://www.pangulab.com
 ### Languages and Tools:
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/>
+<img src="https://img.shields.io/badge/-go-000000?style=flat&logo=go" alt="golang" />
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
