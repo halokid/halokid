@@ -25,7 +25,6 @@ http://www.pangulab.com
 <img src="https://img.shields.io/badge/-jenkins-000000?style=flat&logo=jenkins"/>
 <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git"/>
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"/>
-<img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" />
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React" />
 </p>
 
