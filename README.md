@@ -11,12 +11,12 @@ http://www.pangulab.com
 
 <p align="left">
 <img src="https://img.shields.io/badge/-go-000000?style=flat&logo=go" alt="golang" />
-<img src="https://img.shields.io/badge/-php-000000?style=flat&logo=php" alt="php" />
-<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" /> 
-<img src="https://img.shields.io/badge/-shell-000000?style=flat&logo=shell"/> 
-<img src="https://img.shields.io/badge/-java-000000?style=flat&logo=java"/> 
-<img src="https://img.shields.io/badge/-docker-000000?style=flat&logo=docker"/>
 <img src="https://img.shields.io/badge/-rust-000000?style=flat&logo=rust"/>
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" />
+<img src="https://img.shields.io/badge/-java-000000?style=flat&logo=java"/>
+<img src="https://img.shields.io/badge/-php-000000?style=flat&logo=php" alt="php" /> 
+<img src="https://img.shields.io/badge/-shell-000000?style=flat&logo=shell"/>  
+<img src="https://img.shields.io/badge/-docker-000000?style=flat&logo=docker"/>
 <img src="https://img.shields.io/badge/-kubernetes-000000?style=flat&logo=kubernetes"/>
 <img src="https://img.shields.io/badge/-flask-000000?style=flat&logo=flask"/>
 <img src="https://img.shields.io/badge/-linux-000000?style=flat&logo=linux"/>
