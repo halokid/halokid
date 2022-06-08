@@ -1,3 +1,11 @@
+
+---
+
+<h3 align="center">📚 "Learning is the only thing the mind never exhausts, never fears, and never regrets."</h3>
+<p align="right">- Leonardo da Vinci</p>
+
+---
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=halokid&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hello 👋
