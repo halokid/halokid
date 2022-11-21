@@ -17,6 +17,7 @@ http://www.pangulab.com
 
 ### Languages and Tools:
 
+<!--
 <p align="left">
 <img src="https://img.shields.io/badge/-go-000000?style=flat&logo=go" alt="golang" />
 <img src="https://img.shields.io/badge/-rust-000000?style=flat&logo=rust"/>
@@ -35,7 +36,7 @@ http://www.pangulab.com
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript"/>
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React" />
 </p>
-
+-->
 
 <!--
 **halokid/halokid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
