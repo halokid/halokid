@@ -15,9 +15,9 @@
 
 http://www.pangulab.com
 
+<!--
 ### Languages and Tools:
 
-<!--
 <p align="left">
 <img src="https://img.shields.io/badge/-go-000000?style=flat&logo=go" alt="golang" />
 <img src="https://img.shields.io/badge/-rust-000000?style=flat&logo=rust"/>
